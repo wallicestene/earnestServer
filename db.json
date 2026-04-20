@@ -1,0 +1,251 @@
+{
+  "cars": [
+    {
+      "id": 1,
+      "make": "Toyota",
+      "model": "Aqua Hybrid",
+      "year": 2019,
+      "engine_cc": 1500,
+      "mileage_km": 98000,
+      "price_kes": 1581150,
+      "is_negotiable": true,
+      "condition": "Foreign used",
+      "import_type": "Import on Behalf",
+      "color": "Pearl White",
+      "transmission": "Automatic",
+      "fuel_type": "Petrol",
+      "drivetrain": "Two wheel drive",
+      "features": [
+        "ABS",
+        "Back camera",
+        "Bluetooth",
+        "CD",
+        "Cruise control",
+        "DVD",
+        "Dual Airbag",
+        "Keyless entry",
+        "Navi",
+        "Parking sensors"
+      ],
+      "images": [
+        "https://earnestmotorsltd.com/media/cars/IMG-20260330-WA0049.jpg",
+        "https://earnestmotorsltd.com/media/cars/IMG-20260330-WA0036.jpg",
+        "https://earnestmotorsltd.com/media/cars/IMG-20260330-WA0034.jpg",
+        "https://earnestmotorsltd.com/media/cars/IMG-20260330-WA0032.jpg",
+        "https://earnestmotorsltd.com/media/cars/IMG-20260330-WA0030.jpg",
+        "https://earnestmotorsltd.com/media/cars/IMG-20260330-WA0055.jpg",
+        "https://earnestmotorsltd.com/media/cars/IMG-20260330-WA0053.jpg",
+        "https://earnestmotorsltd.com/media/cars/IMG-20260330-WA0029.jpg",
+        "https://earnestmotorsltd.com/media/cars/IMG-20260330-WA0037.jpg",
+        "https://earnestmotorsltd.com/media/cars/IMG-20260330-WA0031.jpg",
+        "https://earnestmotorsltd.com/media/cars/IMG-20260330-WA0033.jpg",
+        "https://earnestmotorsltd.com/media/cars/IMG-20260330-WA0040.jpg",
+        "https://earnestmotorsltd.com/media/cars/IMG-20260330-WA0041.jpg",
+        "https://earnestmotorsltd.com/media/cars/IMG-20260330-WA0043.jpg",
+        "https://earnestmotorsltd.com/media/cars/IMG-20260330-WA0045.jpg",
+        "https://earnestmotorsltd.com/media/cars/IMG-20260330-WA0048.jpg",
+        "https://earnestmotorsltd.com/media/cars/IMG-20260330-WA0050.jpg",
+        "https://earnestmotorsltd.com/media/cars/IMG-20260330-WA0057.jpg",
+        "https://earnestmotorsltd.com/media/cars/IMG-20260330-WA0052.jpg",
+        "https://earnestmotorsltd.com/media/cars/IMG-20260330-WA0038.jpg",
+        "https://earnestmotorsltd.com/media/cars/IMG-20260330-WA0028.jpg"
+      ]
+    },
+    {
+      "id": 2,
+      "make": "Honda",
+      "model": "Fit Hybrid",
+      "year": 2018,
+      "engine_cc": 1500,
+      "mileage_km": 120000,
+      "price_kes": 1350000,
+      "is_negotiable": false,
+      "condition": "Foreign used",
+      "import_type": "Direct import",
+      "color": "Silver",
+      "transmission": "Automatic",
+      "fuel_type": "Petrol",
+      "drivetrain": "Two wheel drive",
+      "features": [
+        "ABS",
+        "Bluetooth",
+        "CD",
+        "Cruise control",
+        "Dual Airbag",
+        "Keyless entry"
+      ],
+      "images": [
+        "https://earnestmotorsltd.com/media/cars/1769498570697867cad5721_9.jpeg",
+        "https://earnestmotorsltd.com/media/cars/1769498570697867cad5721_10.jpeg"
+      ]
+    },
+    {
+      "id": 3,
+      "make": "Nissan",
+      "model": "Note e-Power",
+      "year": 2020,
+      "engine_cc": 1200,
+      "mileage_km": 80000,
+      "price_kes": 1800000,
+      "is_negotiable": true,
+      "condition": "Foreign used",
+      "import_type": "Import on Behalf",
+      "color": "Red",
+      "transmission": "Automatic",
+      "fuel_type": "Electric",
+      "drivetrain": "Two wheel drive",
+      "features": [
+        "ABS",
+        "Back camera",
+        "Bluetooth",
+        "CD",
+        "Cruise control",
+        "Dual Airbag",
+        "Keyless entry"
+      ],
+      "images": [
+        "https://earnestmotorsltd.com/media/cars/IMG-20260303-WA0026.jpg",
+        "https://earnestmotorsltd.com/media/cars/IMG-20260303-WA0025.jpg"
+      ]
+    },
+    {
+      "id": 4,
+      "make": "Subaru",
+      "model": "XV Hybrid",
+      "year": 2017,
+      "engine_cc": 2000,
+      "mileage_km": 150000,
+      "price_kes": 1700000,
+      "is_negotiable": false,
+      "condition": "Foreign used",
+      "import_type": "Direct import",
+      "color": "Blue",
+      "transmission": "Automatic",
+      "fuel_type": "Petrol",
+      "drivetrain": "All wheel drive",
+      "features": [
+        "ABS",
+        "Bluetooth",
+        "CD",
+        "Cruise control",
+        "Dual Airbag",
+        "Keyless entry"
+      ],
+      "images": [
+        "https://earnestmotorsltd.com/media/cars/IMG-20260308-WA0052.jpg",
+        "https://earnestmotorsltd.com/media/cars/IMG-20260308-WA0053.jpg"
+      ]
+    },
+    {
+      "id": 5,
+      "make": "Mazda",
+      "model": "Demio Hybrid",
+      "year": 2016,
+      "engine_cc": 1300,
+      "mileage_km": 110000,
+      "price_kes": 1200000,
+      "is_negotiable": true,
+      "condition": "Foreign used",
+      "import_type": "Import on Behalf",
+      "color": "Grey",
+      "transmission": "Automatic",
+      "fuel_type": "Petrol",
+      "drivetrain": "Two wheel drive",
+      "features": [
+        "ABS",
+        "Bluetooth",
+        "CD",
+        "Cruise control",
+        "Dual Airbag",
+        "Keyless entry"
+      ],
+      "images": [
+        "https://earnestmotorsltd.com/media/cars/WhatsApp_Image_2026-02-13_at_16.23.27.jpg",
+        "https://earnestmotorsltd.com/media/cars/WhatsApp_Image_2026-02-13_at_16.23.28.jpg"
+      ]
+    },
+    {
+      "id": 6,
+      "make": "Toyota",
+      "model": "Vitz Hybrid",
+      "year": 2015,
+      "engine_cc": 1000,
+      "mileage_km": 130000,
+      "price_kes": 1000000,
+      "is_negotiable": false,
+      "condition": "Foreign used",
+      "import_type": "Direct import",
+      "color": "White",
+      "transmission": "Automatic",
+      "fuel_type": "Petrol",
+      "drivetrain": "Two wheel drive",
+      "features": [
+        "ABS",
+        "Bluetooth",
+        "CD",
+        "Cruise control",
+        "Dual Airbag",
+        "Keyless entry"
+      ],
+      "images": [
+        "https://earnestmotorsltd.com/media/cars/IMG-20260224-WA0017.jpg",
+        "https://earnestmotorsltd.com/media/cars/IMG-20260224-WA0018.jpg"
+      ]
+    },
+    {
+      "id": 7,
+      "make": "Honda",
+      "model": "Vezel Hybrid",
+      "year": 2019,
+      "engine_cc": 1500,
+      "mileage_km": 90000,
+      "price_kes": 1600000,
+      "is_negotiable": true,
+      "condition": "Foreign used",
+      "import_type": "Import on Behalf",
+      "color": "Black",
+      "transmission": "Automatic",
+      "fuel_type": "Petrol",
+      "drivetrain": "Two wheel drive",
+      "features": [
+        "ABS",
+        "Bluetooth",
+        "CD",
+        "Cruise control",
+        "Dual Airbag",
+        "Keyless entry"
+      ],
+      "images": [
+        "https://earnestmotorsltd.com/media/cars/19_Vezel252black-01.JPG",
+        "https://earnestmotorsltd.com/media/cars/19_Vezel252black-02.JPG"
+      ]
+    }
+  ],
+  "gallery": [
+    {
+      "id": 1,
+      "image": "https://earnestmotorsltd.com/media/gallery/IMG-20250401-WA0034.jpg",
+      "title": "Late night delivery"
+    },
+    {
+      "id": 2,
+      "image": "https://earnestmotorsltd.com/media/gallery/IMG-20250315-WA0003.jpg",
+      "title": "End year party"
+    },
+    {
+      "id": 3,
+      "image": "https://earnestmotorsltd.com/media/gallery/Screenshot_20260227_230442_Instagram.jpg",
+      "title": "Sourced and imported on behalf-Honda fit"
+    },
+    {
+      "id": 4,
+      "image": "https://earnestmotorsltd.com/media/gallery/IMG-20260227-WA0044.jpg",
+      "title": "A happy customer for import on behalf-Mazda Axela"
+    },
+    {
+      "id": 5,
+      "image": "https://earnestmotorsltd.com/media/gallery/20260220_180202.jpg",
+      "title": "A Mazda demio has found a new home"
+    }
+  ]
+}
